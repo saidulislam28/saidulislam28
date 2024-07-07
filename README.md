@@ -1,4 +1,6 @@
-![I am Saidul](https://drive.google.com/file/d/1e8sRg0NzyuF8i6uehvvNuNWP4mMlhT81/view?usp=sharing)
+<p align="center">
+  <img src="https://drive.google.com/file/d/1e8sRg0NzyuF8i6uehvvNuNWP4mMlhT81/view?usp=sharing" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm MD Saidul Houlader </h1>
 <h3 align="center"> React developer | Front end Web Developer </h3>
