@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1e8sRg0NzyuF8i6uehvvNuNWP4mMlhT81/view?usp=sharing" alt="Banner" width="100%" />
+  <img src="./Black Yellow Geometric Design Expert LinkedIn Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Saidul Houlader </h1>
