@@ -10,7 +10,7 @@
 
 
 
-Skills: REACT / JS / HTML / CSS / TAILWIND CSS/ BOOTSTRAP
+Skills:  REACT / JS / HTML / CSS / TAILWIND CSS/ BOOTSTRAP
 
 </div>
 
