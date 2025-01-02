@@ -87,7 +87,8 @@ Skills:  REACT / JS / HTML / CSS / TAILWIND CSS/ BOOTSTRAP
   <br/>
 </a>
 
-![Saidul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saidulislam28&custom_title=saidul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Saidul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saidulislam28&custom_title=saidul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&cache_seconds=86400)
+
 
 <br/>
 
