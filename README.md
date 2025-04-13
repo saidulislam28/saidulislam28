@@ -15,7 +15,7 @@ Skills:  REACT / JS / HTML / CSS / TAILWIND CSS/ BOOTSTRAP
 
 </div>
 
-- 🌱 I’m currently learning advance React.js, Next.js as well.
+- 🌱 I’m currently learning advance Nestjs, Prisma, React Native as well.
 
 - 👨‍💻 All of my projects are available at [https://github.com/saidulislam28](https://github.com/saidulislam28)
 
