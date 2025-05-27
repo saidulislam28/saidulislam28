@@ -80,6 +80,11 @@ Skills:  REACT / JS / HTML / CSS / TAILWIND CSS/ BOOTSTRAP
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saidulislam28&theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
+-------
+
+<a href="http://www.github.com/saidulislam28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saidulislam28&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+----
 
 <a> 
     <a href="https://github.com/saidulislam28/"><img alt="Saidul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=saidulislam28&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
